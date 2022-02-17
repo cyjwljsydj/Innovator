@@ -1,6 +1,6 @@
 /*
-*	@Author: PingLin Zhang
-*	@Date:	 2020.04.13
+*	@Author: Yijie Cao
+*	@Date:	 2021.03.17
 *	@Brief:  Serial
 */
 #ifndef  _USART_H
